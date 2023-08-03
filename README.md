@@ -19,7 +19,7 @@ Trends were identified in offensive and defensive statistics, offering teams val
 The balanced strategy model outperformed the offensive and defensive models with the lowest Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root Mean Squared Error (RMSE) values. This indicates its superior accuracy in predicting future games compared to other models.
 
 ## Dataset and Analysis
-The project utilized a structured dataset containing baseball team statistics. Analytical insights were derived using Python and Jupyter Notebook. The presentation highlights key findings and visualizations to aid data-driven decision-making.
+The project utilized a structured dataset containing baseball team statistics. The dataset has 2805 entries and 43 columns. Analytical insights were derived using Python and Jupyter Notebook. The presentation highlights key findings and visualizations to aid data-driven decision-making.
 
 ## Files
 1. Baseball Statistics Analysis.ipynb (Jupyter Notebook)
