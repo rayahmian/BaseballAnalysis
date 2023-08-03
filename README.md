@@ -1,4 +1,4 @@
-# Baseball Analysis
+# Baseball Analysis ⚾
 
 ## Overview
 This project is an analytical report and presentation on baseball statistics from the years 1871 to 2010. The main objective is to investigate the impact of offensive and defensive strategies on the number of games won in baseball. The analysis aims to provide valuable insights to baseball teams, coaches, and decision-makers to optimize their strategies and improve their chances of winning games.
